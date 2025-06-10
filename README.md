@@ -1,9 +1,9 @@
 # Hanoi Towers - Java Processing
 This is a graphical implementation of the classic Tower of Hanoi puzzle built using Java Processing. The application visually demonstrates the puzzle and allows users to interact with it, moving disks between rods while following the game rules.
 ## Features
-3D Visualization: The game renders the towers and disks in 3D space with proper lighting</br?
-Smooth Animations: Disk movements are animated with smooth transitions
-Customizable Difficulty: Players can choose between 3 to 10 disks
+3D Visualization: The game renders the towers and disks in 3D space with proper lighting </br>
+Smooth Animations: Disk movements are animated with smooth transitions  
+Customizable Difficulty: Players can choose between 3 to 10 disks  
 Interactive Gameplay:  Click on a tower to select its top disk
                        Click on another tower to move the selected disk
                        Invalid moves are visually indicated with animation
